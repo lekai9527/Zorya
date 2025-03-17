@@ -25,8 +25,8 @@ Thank you for using Zorya Camera. We take your privacy seriously. This Privacy P
 
 ## 2. Third-Party Services
 
-- **Apple Vision Framework**: For local image analysis (object recognition, background removal, no sensitive facial recognition). All processing is **completed on-device**.
-- **Apple App Analytics**: Feature usage frequency, crash reports. (Cannot be linked to personal identity)
+- **Apple Vision Framework**: For local image analysis (person/object silhouette detection, background removal, no sensitive facial recognition). All processing is performed exclusively on-device.
+- **Apple App Analytics**: For collecting feature usage statistics and crash reports. (Cannot be linked to personal identity)
 
 ## 3. Data Storage and Security
 - **Storage Location**: All photo processing and data handling occur locally on your device.
